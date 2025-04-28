@@ -1,5 +1,7 @@
 # 📘 Konoz | Student Attendance and Management System
+
 <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235229.png" alt="Konoz"/>
+
 ## 🔢 Description
 This project is a **student management system** built with **Flet** (Python GUI framework) and **SQLite** (local database). It manages **student attendance**, **student information**, and allows **synchronization with a server** for backup or collaboration.
 
