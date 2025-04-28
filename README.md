@@ -27,17 +27,17 @@ The system offers:
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235229.png" alt="Project 1" width="300px"/>
       <br/>
-      <b>Project 1</b>
+      <b>Screen 1</b>
     </td>
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235308.png" alt="Project 2" width="300px"/>
       <br/>
-      <b>Project 2</b>
+      <b>Screen 2</b>
     </td>
     <td align="center">
     <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/3961ae84c5997b83401f34ca941ee0367631d3d3/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-29%20005032.png" alt="Project 2" width="300px"/>
       <br/>
-      <b>Project 2</b>
+      <b>Screen 3</b>
     </td>
     
   </tr>
@@ -45,17 +45,17 @@ The system offers:
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235408.png" alt="Project 3" width="300px"/>
       <br/>
-      <b>Project 3</b>
+      <b>Screen 4</b>
     </td>
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235431.png" alt="Project 3" width="300px"/>
       <br/>
-      <b>Project 3</b>
+      <b>Screen 5</b>
     </td>
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235523.png" alt="Project 3" width="300px"/>
       <br/>
-      <b>Project 3</b>
+      <b>Screen 6</b>
     </td>
   </tr>
 </table>
