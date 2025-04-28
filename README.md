@@ -23,27 +23,27 @@ The system offers:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235229.png" alt="Project 1" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235229.png" alt="Project 1" width="300px"/>
       <br/>
       <b>Project 1</b>
     </td>
     <td align="center">
-      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235308.png" alt="Project 2" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235308.png" alt="Project 2" width="300px"/>
       <br/>
       <b>Project 2</b>
     </td>
     <td align="center">
-      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235408.png" alt="Project 3" width="300px"/>
       <br/>
       <b>Project 3</b>
     </td>
     <td align="center">
-      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235431.png" alt="Project 3" width="300px"/>
       <br/>
       <b>Project 3</b>
     </td>
     <td align="center">
-      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235523.png" alt="Project 3" width="300px"/>
       <br/>
       <b>Project 3</b>
     </td>
