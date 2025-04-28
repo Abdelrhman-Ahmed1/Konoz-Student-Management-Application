@@ -19,7 +19,7 @@ The system offers:
 - 📋 **Local client storage** (save attendance temporarily using Flet's `client_storage`).
 
 ---
-
+## 🔥 Screenshots
 <table align="center">
   <tr>
     <td align="center">
