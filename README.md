@@ -23,12 +23,12 @@ The system offers:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://link-to-your-image1.jpg" alt="Project 1" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235229.png" alt="Project 1" width="200px"/>
       <br/>
       <b>Project 1</b>
     </td>
     <td align="center">
-      <img src="https://link-to-your-image2.jpg" alt="Project 2" width="200px"/>
+      <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235308.png" alt="Project 2" width="200px"/>
       <br/>
       <b>Project 2</b>
     </td>
