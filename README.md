@@ -20,6 +20,29 @@ The system offers:
 
 ---
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://link-to-your-image1.jpg" alt="Project 1" width="200px"/>
+      <br/>
+      <b>Project 1</b>
+    </td>
+    <td align="center">
+      <img src="https://link-to-your-image2.jpg" alt="Project 2" width="200px"/>
+      <br/>
+      <b>Project 2</b>
+    </td>
+    <td align="center">
+      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <br/>
+      <b>Project 3</b>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 ## ⚙️ Technologies Used
 - **Python 3**
 - **Flet** (for cross-platform GUI)
