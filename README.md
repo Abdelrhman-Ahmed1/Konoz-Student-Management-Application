@@ -32,6 +32,8 @@ The system offers:
       <br/>
       <b>Project 2</b>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://github.com/Abdelrhman-Ahmed1/Konoz-Student-Management-Application/blob/4d6427ec1a355296c081237b7706f9636528c640/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202025-04-28%20235408.png" alt="Project 3" width="300px"/>
       <br/>
