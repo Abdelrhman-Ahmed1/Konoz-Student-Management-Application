@@ -48,6 +48,12 @@ The system offers:
 ✅ It can be easily expanded with more features like notifications, automated reports, etc.
 
 ---
+## License
+This project is licensed under the MIT License.
 
-> Developed with ❤️ by Abdelrhman Ahmed
+## Author
+- **Name:** Abdelrhman Ahmed
+- **Department:** Software Engineer
+- **Date of Publish:** 12/03/2025
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/%D9%90abdelrhman-ahmed-82609b296/)
 
