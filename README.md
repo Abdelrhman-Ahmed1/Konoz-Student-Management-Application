@@ -20,7 +20,7 @@ The system offers:
 
 ---
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://link-to-your-image1.jpg" alt="Project 1" width="200px"/>
@@ -31,6 +31,16 @@ The system offers:
       <img src="https://link-to-your-image2.jpg" alt="Project 2" width="200px"/>
       <br/>
       <b>Project 2</b>
+    </td>
+    <td align="center">
+      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <br/>
+      <b>Project 3</b>
+    </td>
+    <td align="center">
+      <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
+      <br/>
+      <b>Project 3</b>
     </td>
     <td align="center">
       <img src="https://link-to-your-image3.jpg" alt="Project 3" width="200px"/>
